@@ -146,7 +146,7 @@ body{
     margin-bottom: 7px;
 }
 
-@media (max-width:795px){
+@media (max-width:850px){
     .case-study-grid{
        grid-template-columns: 1fr;
    
